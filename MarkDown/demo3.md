@@ -32,4 +32,4 @@ GITHUB FLVORED MARKDOWN
 
 emoji
 
-  :smaile:
+  :smile:
